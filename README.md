@@ -1,15 +1,30 @@
-<body>
-<h1>Hi there! I am a backend engineer.</h1>
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hideyuki-matsuyama&theme=vue-dark&show_icons=true&hide=stars,contribs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hideyuki-matsuyama&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <a href="https://github.com/hideyuki-matsuyama">
+    <img height="20" src="https://komarev.com/ghpvc/?username=hideyuki-matsuyama" />
+  </a>
+  <a href="https://github.com/hideyuki-matsuyama">
+    <img height="20" src="https://img.shields.io/github/followers/hideyuki-matsuyama?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/choripon">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/choripon/posts.svg" />
+  </a>
+  <a href="http://qiita.com/choripon">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/choripon/contributions.svg" />
+  </a>
+  <a href="http://qiita.com/choripon">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/choripon/followers.svg" />
+  </a>
+  <a href="https://zenn.dev/choripon">
+    <img height="20" src="https://badgen.org/img/zenn/choripon/articles?style=plastic" />
+  </a>
+</p>
 
-# My Skill (Programming Languages, Frameworks and Tools)
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hideyuki-matsuyama&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hideyuki-matsuyama&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hideyuki-matsuyama&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hideyuki-matsuyama&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hideyuki-matsuyama&theme=gruvbox&utcOffset=9)
 
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,typescript,react,vuejs,mysql,github,vscode,docker,jquery,aws,postman,html,css" />
-<br /><br />
-
-# Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=hideyuki-matsuyama&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
-</body>
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=hideyuki-matsuyama&theme=gruvbox)
