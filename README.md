@@ -9,11 +9,12 @@
 <img src="https://skillicons.dev/icons?i=ruby,rails,html,css,js,mysql,github,vscode,docker,jquery,aws,postman" />
 <br /><br />
 
-# NOW TRAINING
+# Now Training
 
 <img src="https://skillicons.dev/icons?i=typescript,react,vuejs" />
 <br /><br />
 
+# Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=hideyuki-matsuyama&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 </body>
