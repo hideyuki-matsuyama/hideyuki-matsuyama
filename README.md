@@ -27,7 +27,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hideyuki-matsuyama&theme=gruvbox&utcOffset=9)
 
 ## My Skill (Programming Languages, Frameworks and Tools)
-![](https://skillicons.dev/icons?i=ruby,rails,js,typescript,react,vuejs,mysql,github,vscode,docker,jquery,aws,postman,html,css)
+![](https://skillicons.dev/icons?i=ruby,rails,js,typescript,react,vuejs,jquery,html,css)
+![](https://skillicons.dev/icons?i=postman,sentry)
+![](https://skillicons.dev/icons?i=github,docker,aws)
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=hideyuki-matsuyama&theme=gruvbox)
