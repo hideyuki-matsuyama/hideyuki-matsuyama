@@ -6,12 +6,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=ruby,rails,html,css,js,mysql,github,vscode,docker,jquery,aws,postman" />
-<br /><br />
-
-# Now Training
-
-<img src="https://skillicons.dev/icons?i=typescript,react,vuejs" />
+<img src="https://skillicons.dev/icons?i=ruby,rails,js,typescript,react,vuejs,mysql,github,vscode,docker,jquery,aws,postman,html,css" />
 <br /><br />
 
 # Trophies
