@@ -45,5 +45,3 @@
 ### Sub
 - TypeScript
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=hideyuki-matsuyama&theme=gruvbox)
