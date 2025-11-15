@@ -1,6 +1,9 @@
 ## Overview
-* 主に Rails/EC バックエンドの開発に従事
-* 最近は副業を通じて、モダンな Rails と AI エージェント周りの技術に触れている
+* Rails を中心とした Web バックエンド開発者です。
+* 業務ロジックの実装と、RSpec を用いたテストコード実装が好きで、これらは得意分野でもあります
+* ふわっとした要件から詳細設計〜レビュー〜実装（＆テスト）をバイネームで遂行することができます
+* 全てのアウトプットに関して「数年後に読んで理解できるか」「当事者以外が読んで理解できるか」を常に意識して従事し、属人性の排除にも貢献してきました
+* 最近は副業を通じて、モダンな Rails と AI エージェント周りの技術に触れています
 
 <p align="left">
   <a href="https://github.com/hideyuki-matsuyama">
@@ -34,6 +37,13 @@
 ![](https://skillicons.dev/icons?i=ruby,rails,js,typescript,react,vuejs,jquery,html,css)
 ![](https://skillicons.dev/icons?i=postman,sentry)
 ![](https://skillicons.dev/icons?i=github,docker,aws)
+
+### Main
+- Ruby on Rails
+- RSpec
+
+### Sub
+- TypeScript
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=hideyuki-matsuyama&theme=gruvbox)
