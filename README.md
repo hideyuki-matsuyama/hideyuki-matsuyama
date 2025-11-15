@@ -34,7 +34,7 @@
 ![](https://skillicons.dev/icons?i=postman,sentry)
 ![](https://skillicons.dev/icons?i=github,docker,aws)
 
-## Stats
+## Stats（本業は別アカウントなので反映されません）
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hideyuki-matsuyama&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hideyuki-matsuyama&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hideyuki-matsuyama&theme=gruvbox)
