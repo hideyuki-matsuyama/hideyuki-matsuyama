@@ -1,4 +1,4 @@
-## Overview
+## 概要
 * Rails を中心とした Web バックエンド開発者（フリーランス）です
 * 業務ロジックの実装と、RSpec を用いたテストコード実装が好きで、これらを得意分野としています
 * 要件がふわっとしていても、詳細設計（＆レビュー） 〜 実装（＆テスト）をバイネームで遂行することができます
@@ -24,12 +24,12 @@
   </a>
 </p>
 
-## My Skill (Programming Languages, Frameworks and Tools)
+## スキル
 
-### Main
+### メイン
 ![](https://skillicons.dev/icons?i=ruby,rails)
 
-### Sub
+### サブ
 ![](https://skillicons.dev/icons?i=js,typescript,react,vuejs,jquery,html,css)
 ![](https://skillicons.dev/icons?i=postman,sentry)
 ![](https://skillicons.dev/icons?i=github,docker,aws)
