@@ -9,9 +9,6 @@
   <a href="https://github.com/hideyuki-matsuyama">
     <img height="20" src="https://komarev.com/ghpvc/?username=hideyuki-matsuyama" />
   </a>
-  <a href="https://github.com/hideyuki-matsuyama">
-    <img height="20" src="https://img.shields.io/github/followers/hideyuki-matsuyama?label=follow&logo=github&style=flat" />
-  </a>
   <a href="http://qiita.com/choripon">
     <img height="20" src="https://qiita-badge.apiapi.app/s/choripon/posts.svg" />
   </a>
@@ -20,9 +17,6 @@
   </a>
   <a href="http://qiita.com/choripon">
     <img height="20" src="https://qiita-badge.apiapi.app/s/choripon/followers.svg" />
-  </a>
-  <a href="https://zenn.dev/choripon">
-    <img height="20" src="https://badgen.org/img/zenn/choripon/articles?style=plastic" />
   </a>
 </p>
 
