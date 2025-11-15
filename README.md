@@ -1,3 +1,7 @@
+## Overview
+* 主に Rails/EC バックエンドの開発に従事
+* 最近は副業を通じて、モダンな Rails と AI エージェント周りの技術に触れている
+
 <p align="left">
   <a href="https://github.com/hideyuki-matsuyama">
     <img height="20" src="https://komarev.com/ghpvc/?username=hideyuki-matsuyama" />
