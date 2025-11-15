@@ -26,22 +26,20 @@
   </a>
 </p>
 
+## My Skill (Programming Languages, Frameworks and Tools)
+
+### Main
+![](https://skillicons.dev/icons?i=ruby,rails)
+
+### Sub
+![](https://skillicons.dev/icons?i=js,typescript,react,vuejs,jquery,html,css)
+![](https://skillicons.dev/icons?i=postman,sentry)
+![](https://skillicons.dev/icons?i=github,docker,aws)
+
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hideyuki-matsuyama&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hideyuki-matsuyama&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hideyuki-matsuyama&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hideyuki-matsuyama&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hideyuki-matsuyama&theme=gruvbox&utcOffset=9)
-
-## My Skill (Programming Languages, Frameworks and Tools)
-![](https://skillicons.dev/icons?i=ruby,rails,js,typescript,react,vuejs,jquery,html,css)
-![](https://skillicons.dev/icons?i=postman,sentry)
-![](https://skillicons.dev/icons?i=github,docker,aws)
-
-### Main
-- Ruby on Rails
-- RSpec
-
-### Sub
-- TypeScript
 
